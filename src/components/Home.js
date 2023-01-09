@@ -60,8 +60,8 @@ export const Home = () => {
             <div>
               <p>
                 I study Computer Science at Cornell University. I am excited to
-                apply my software and data skills to challenging and important
-                problems.
+                build software and use data to tackle to challenging and
+                important problems.
               </p>
             </div>
             <div className="">
