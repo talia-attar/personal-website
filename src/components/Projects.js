@@ -1,6 +1,5 @@
 import { ProjectCard } from "./ProjectCard";
-import reuImg from "../assets/reuHeader.png";
-import cBayImg from "../assets/cBayHeader.png";
+
 import DTSImg from "../assets/DTSHeader.png";
 
 export const Projects = () => {
@@ -10,7 +9,7 @@ export const Projects = () => {
       description:
         "Designed and implemented a VR simulation to model food purchasing behavior. Published research that used the simulation.",
       link: "https://dl.acm.org/doi/abs/10.1145/3562939.3565685",
-      img: reuImg,
+
       styleS: "duration-200 hover:scale-105",
       styleH: "duration-200 hover:scale-105 hover:text-blue-500",
     },
@@ -29,7 +28,7 @@ export const Projects = () => {
       description:
         "Implemented a marketplace application with server using OCaml with student team. Deployed application using Docker.",
       link: "https://github.com/talia-attar/cBay-backend",
-      img: cBayImg,
+
       styleS: "duration-200 hover:scale-105",
       styleH: "duration-200 hover:scale-105 hover:text-blue-500",
     },
