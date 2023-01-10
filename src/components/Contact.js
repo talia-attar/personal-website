@@ -32,21 +32,23 @@ const Contact = () => {
   ];
   return (
     <section name="contact" id="5" className="w-full h-full">
-      <div className="p-4 x-auto flex flex-col justify-center w-full h-max bg-white ">
-        <div className="pb-8">
+      <div className="p-4 mx-auto flex flex-col justify-center w-full h-max bg-white ">
+        <div className="pb-8 pt-4">
           <p className="text-3xl font-extrabold inline ">GET IN TOUCH</p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 justify-center w-full md:w-2/3 md:ml-20 max-w-screen-lg">
-          <div className="px-4 p-10">
-            <p>Please say hi, my inbox is always open!</p>
-            <div className="flex mt-10">
+          <div className="px-4 p-10 justify-center items-center">
+            <p className="text-xl justify-center font-semibold">
+              Please say hi, I'm always excited to connect!
+            </p>
+            <div className="flex mt-10 items-center justify-center">
               {links.map(({ id, child, href, style }) => (
                 <a
                   key={id}
                   href={href}
-                  className="no-underline flex justify-between items-center w-full text-black duration-300 hover:scale-105"
+                  className="no-underline flex mx-4 w-fit  text-black duration-300 hover:scale-105"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   {child}
                 </a>

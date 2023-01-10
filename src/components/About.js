@@ -5,20 +5,33 @@ export const About = () => {
     <section name="about" id="about" className="w-full h-full ">
       <div className="  p-4 mx-auto mt:auto flex  flex-col justify-center w-full h-full  bg-gradient-to-bl from-violet-200 via-indigo-100 to-blue-200  ">
         <div className="max-w-screen-lg">
-          <div className="pb-8">
+          <div className="pb-8 pt-4">
             <p className="text-3xl font-extrabold inline ">ABOUT ME</p>
           </div>
-          <div className="w-full md:w-2/3 md:ml-20">
+          <div className="w-full md:w-5/6 md:ml-20 text-lg ">
             <p>
-              Hi! I am Talia, and I blah blah love math and computer. I like to
-              code because it is fun.
+              Hi! My name is Talia, and I use code to develop elegant solutions
+              to challenging problems. I enjoy building software, analyzing
+              data, and constructing visualizations. I am highly motivated and
+              excited to grow my skills in a collaborative environment upon my
+              graduation.
             </p>
             <p>
-              I have previously worked as a Software Engineer Intern at Nuance
-              Communications and developed a back-end feature for an A.I.
-              healthcare product. I also have published research using VR to
-              stduy food purchasing beahviors through a public health lens.
+              As a Software Engineer Intern, I designed and implemented a
+              backend feature for a healthcare-related A.I. product. I have also
+              published and presented research which explores the use of Virtual
+              Reality to study food consumer behavior under a grant from the
+              National Science Foundation.
             </p>
+            <p>
+              In addition to my passion for technology, I am an artist. I
+              believe that my artistic background gives me a unique perspective
+              on problem-solving and allows me to approach technical challenges
+              with a creative mindset. Whether it's through coding or creating,
+              I am constantly seeking innovative ways to bring new projects to
+              life.
+            </p>
+
             <div className="flex justify-right my-4">
               <div className="mr-6">
                 <p className="font-bold text-lg">INTERESTS</p>

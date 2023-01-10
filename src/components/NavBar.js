@@ -16,11 +16,13 @@ export const NavBar = () => {
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-black md:bg-white md:fixed z-10">
-      <div>
-        <p className="text-xl font-signature ml-2">tda25@cornell.edu</p>
-      </div>
+      <Link to="home" smooth duration={300} offset={-60}>
+        <div className="rounded text-white bg-gradient-to-bl from-violet-200 via-indigo-100 to-blue-200  font-semibold px-2 text-3xl">
+          T
+        </div>
+      </Link>
 
-      <ul className="hidden md:flex ">
+      <ul className="hidden md:flex mt-3">
         {links.map(({ id, link }) => (
           <li
             key={id}

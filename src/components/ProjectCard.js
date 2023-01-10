@@ -10,7 +10,12 @@ export const ProjectCard = ({
 }) => {
   return (
     <div className={"bg-indigo-100 rounded text-black w-full h-full " + styleS}>
-      <a href={link} className="no-underline">
+      <a
+        href={link}
+        className="no-underline"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <div className="md:mx-5 py-3  text-black">
           <div className="flex justify-between mx-2">
             {" "}

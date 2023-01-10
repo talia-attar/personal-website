@@ -34,7 +34,7 @@ export const Home = () => {
               </a>
 
               <a
-                href="/resume.docx"
+                href="resume.pdf"
                 download={true}
                 target="_blank"
                 rel="noreferrer"
@@ -60,11 +60,10 @@ export const Home = () => {
             <div>
               <p>
                 I study Computer Science at Cornell University. I am excited to
-                build software and use data to tackle to challenging and
-                important problems.
+                build creative software solutions to meaningful problems.
               </p>
             </div>
-            <div className="">
+            <div className="mt-4">
               <Link to="contact" smooth duration={300} offset={-60}>
                 <button className="flex font-semibold text-lg border-2 border-black p-1 duration-200 hover:border-blue-500 hover:bg-blue-500 hover:text-white">
                   Let's Connect

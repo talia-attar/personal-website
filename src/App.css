@@ -109,7 +109,8 @@ nav.navbar {
 }
 
 #item-tab .nav-link.active {
-  border-left-color: black;
+  border-top-color: black;
+  background: #e8eaf6;
 }
 
 #item-tab .nav-link {
@@ -130,6 +131,7 @@ nav.navbar {
 
   #item-tab .nav-link.active {
     border-left-color: black;
+    background: #e8eaf6;
   }
 
   #item-tab .nav-link {
@@ -142,7 +144,7 @@ nav.navbar {
   }
 }
 video {
-  height: 90%;
-  width: 90%;
+  height: 95%;
+  width: 95%;
   min-width: 400px;
 }

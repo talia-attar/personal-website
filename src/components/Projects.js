@@ -8,7 +8,7 @@ export const Projects = () => {
     {
       title: "VR Research",
       description:
-        "Designed, implemented, and adminstered VR simulation modeling food purchasing as part of published research.",
+        "Designed and implemented a VR simulation to model food purchasing behavior. Published research that used the simulation.",
       link: "https://dl.acm.org/doi/abs/10.1145/3562939.3565685",
       img: reuImg,
       styleS: "duration-200 hover:scale-105",
@@ -17,7 +17,7 @@ export const Projects = () => {
     {
       title: "DTS Web Development",
       description:
-        "Collaboratively developed the back-end of the Disrupt The System Hackathon website using Python and Django.",
+        "Collaboratively developed the backend of the Disrupt The System Hackathon website using Python and Django.",
       link: "",
       img: DTSImg,
       styleS: "",
@@ -27,7 +27,7 @@ export const Projects = () => {
     {
       title: "cBay Application",
       description:
-        "Implemented and deployed a marketplace application using OCaml and Docker with student team.",
+        "Implemented a marketplace application with server using OCaml with student team. Deployed application using Docker.",
       link: "https://github.com/talia-attar/cBay-backend",
       img: cBayImg,
       styleS: "duration-200 hover:scale-105",
@@ -38,7 +38,7 @@ export const Projects = () => {
   return (
     <section name="projects" id="1" className="w-full h-full ">
       <div className="p-4 mx-auto mt:auto flex flex-col justify-center w-full h-full  bg-white ">
-        <div className="pb-8">
+        <div className="pb-8 pt-4">
           <p className="text-3xl font-extrabold inline ">PROJECTS</p>
         </div>
         <div className="">

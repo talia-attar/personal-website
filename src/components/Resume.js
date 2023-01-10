@@ -171,10 +171,10 @@ const Resume = () => {
   return (
     <section name="experience" id="experience" className="w-full h-max">
       <div className="p-4 flex flex-col justify-center w-full h-full bg-gradient-to-bl from-violet-200 via-indigo-100 to-blue-200 ">
-        <div className="pb-8">
+        <div className="pb-8 pt-4">
           <p className="text-3xl font-extrabold inline ">EXPERIENCE</p>
           <a
-            href="/resume.docx"
+            href="resume.pdf"
             download={true}
             target="_blank"
             rel="noreferrer"
@@ -187,7 +187,7 @@ const Resume = () => {
         </div>
         <div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 justify-center max-w-screen-lg">
-            <div className="flex flex-col h-full w-full  bg-white px-4">
+            <div className="flex flex-col h-full w-full  bg-white p-2">
               <p className="text-3xl font-bold text-stone-900 ml-5 mt-3">
                 Where I've Worked
               </p>
