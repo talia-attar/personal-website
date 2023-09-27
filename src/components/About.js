@@ -88,7 +88,7 @@ export const About = () => {
                       className="mb-1 mr-1"
                       color="black"
                     />
-                    Coffee - drinking
+                    Coffee-drinking
                   </li>
                 </ul>
               </div>

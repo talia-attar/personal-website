@@ -206,16 +206,19 @@ const Resume = () => {
                   <Col md={3}>
                     <Nav defaultActiveKey="/first" className=" " id="item-tab">
                       <Nav.Item>
-                        <Nav.Link eventKey="first">Hunter</Nav.Link>
+                        <Nav.Link eventKey="first">Healthedge</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link eventKey="second">Cornell</Nav.Link>
+                        <Nav.Link eventKey="second">Hunter</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link eventKey="third">Nuance</Nav.Link>
+                        <Nav.Link eventKey="third">Cornell</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link eventKey="fourth">CRI</Nav.Link>
+                        <Nav.Link eventKey="fourth">Nuance</Nav.Link>
+                      </Nav.Item>
+                      <Nav.Item>
+                        <Nav.Link eventKey="fifth">CRI</Nav.Link>
                       </Nav.Item>
                     </Nav>
                   </Col>
