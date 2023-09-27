@@ -110,8 +110,8 @@ const Resume = () => {
       name: "Software Engineer",
       date: "Present",
       description: [
-        "Contribute to SaaS product with complex, distributed architecture",
-        "Implement in Java to make meaningful optimization to system backend",
+        "Contribute to an SaaS product with a complex, distributed architecture",
+        "Implement code in Java to make meaningful optimizations to the system backend",
       ],
     },
     {
