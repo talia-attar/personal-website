@@ -10,15 +10,19 @@ export const About = () => {
           </div>
           <div className="w-full md:w-5/6 md:ml-20 text-lg ">
             <p>
-              Hi! My name is Talia, and I use code to develop elegant solutions
-              to challenging problems. I enjoy building software, analyzing
-              data, and constructing visualizations. I am highly motivated and
-              excited to grow my skills in a collaborative environment upon my
-              graduation.
+              Hi! I'm Talia, and I'm on a journey to leverage technology as a
+              force for positive change. I'm passionate about co-creating
+              solutions that address real-world problems and ensure they meet
+              the needs of those they serve. I use code to develop elegant
+              solutions to challenging problems. I enjoy building software, and
+              I am highly motivated to grow my technical skills in collaborative
+              environments.
             </p>
             <p>
-              As a Software Engineer Intern, I designed and implemented a
-              backend feature for a healthcare-related A.I. product. I have also
+              Currently, I am a Software Engineer at Healthedge, working on
+              improving the backend of the flagship product. Previously as a
+              Software Engineer Intern, I designed and implemented a backend
+              feature for a healthcare-related A.I. product. I have also
               published and presented research which explores the use of Virtual
               Reality to study food consumer behavior under a grant from the
               National Science Foundation.
