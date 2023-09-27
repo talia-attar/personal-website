@@ -51,7 +51,7 @@ export const About = () => {
                       className="mb-1 mr-1"
                       color="black"
                     />
-                    Public Health
+                    Critical Technology Studies
                   </li>
                   <li>
                     <ChevronRightIcon
@@ -59,7 +59,7 @@ export const About = () => {
                       className="mb-1 mr-1"
                       color="black"
                     />
-                    Visualization
+                    The Fediverse
                   </li>
                 </ul>
               </div>
@@ -88,7 +88,7 @@ export const About = () => {
                       className="mb-1 mr-1"
                       color="black"
                     />
-                    Running
+                    Coffee - drinking
                   </li>
                 </ul>
               </div>

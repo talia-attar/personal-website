@@ -107,6 +107,16 @@ const Resume = () => {
     {
       id: 1,
       key: "first",
+      name: "Software Engineer",
+      date: "Present",
+      description: [
+        "Contribute to SaaS product with complex, distributed architecture",
+        "Implement in Java to make meaningful optimization to system backend",
+      ],
+    },
+    {
+      id: 2,
+      key: "second",
       name: "R.E.U. Participant @ Hunter College",
       date: "Summer 2022",
       description: [
@@ -116,8 +126,8 @@ const Resume = () => {
       ],
     },
     {
-      id: 2,
-      key: "second",
+      id: 3,
+      key: "third",
       name: "Teacher's Assistant @ Cornell University",
       date: "Spring & Fall 2022",
       description: [
@@ -125,8 +135,8 @@ const Resume = () => {
       ],
     },
     {
-      id: 3,
-      key: "third",
+      id: 4,
+      key: "fourth",
       name: "Software Engineer Intern @ Nuance Communications",
       date: "Summer 2021",
       description: [
@@ -136,8 +146,8 @@ const Resume = () => {
       ],
     },
     {
-      id: 4,
-      key: "fourth",
+      id: 5,
+      key: "fifth",
       name: "Data Analysis Intern @ Community Research Initiative",
       date: "Summer 2020",
       description: [

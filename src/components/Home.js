@@ -59,10 +59,10 @@ export const Home = () => {
             </div>
             <div>
               <p>
-                Technology builder and advocate with a deep-seated passion for
-                creating impactful solutions that serve the people. Adept at
-                bridging the gap between user perspectives and cutting-edge
-                technology.
+                Technology builder and advocate with a deep-seated commitment to
+                developing innovations that enhance the lives of individuals and
+                communities. Passionate about co-creating solutions with
+                end-users to ensure their needs are met.
               </p>
             </div>
             <div className="mt-4">
