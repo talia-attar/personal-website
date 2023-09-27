@@ -59,8 +59,10 @@ export const Home = () => {
             </div>
             <div>
               <p>
-                I study Computer Science at Cornell University. I am excited to
-                build creative software solutions to meaningful problems.
+                Technology builder and advocate with a deep-seated passion for
+                creating impactful solutions that serve the people. Adept at
+                bridging the gap between user perspectives and cutting-edge
+                technology.
               </p>
             </div>
             <div className="mt-4">
